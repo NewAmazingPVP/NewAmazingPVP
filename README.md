@@ -10,7 +10,7 @@
 - CSS
 
 # **I also know:**
-C/C++
+- C/C++
 
 # **My hobbies:**
 In my free time, I enjoy coding Minecraft Java plugins. This is one of the ways that I developed my passion for programming.
