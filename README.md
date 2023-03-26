@@ -10,7 +10,7 @@
 - CSS
 
 # **I also know:**
-C++
+C/C++
 
 # **My hobbies:**
 In my free time, I enjoy coding Minecraft Java plugins. This is one of the ways that I developed my passion for programming.
@@ -21,7 +21,7 @@ More info: https://jagbots4638.com/
 # **Contacts**
 Discord: NewAmazingPVP#2478
 
-# **Stats**
+# **More Info**
 ![Visitor Count](https://profile-counter.glitch.me/{NewAmazingPVP}/count.svg)
 
 [![NewAmazingPVP's GitHub stats](https://github-readme-stats.vercel.app/api?username=NewAmazingPVP&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
