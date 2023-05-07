@@ -15,8 +15,7 @@
 # **My hobbies:**
 In my free time, I enjoy coding Minecraft Java plugins. This is one of the ways that I developed my passion for programming.
 
-I'm also part of FIRST Robotics Team 4638, where I work as a programmer, writing code to power our sophisticated robots.
-More info: https://jagbots4638.com/
+I'm also part of FIRST Robotics Team, where I work as a programmer, writing code to power our sophisticated robots.
 
 # **Contacts**
 Discord: NewAmazingPVP#2478
