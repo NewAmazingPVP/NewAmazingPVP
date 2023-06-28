@@ -1,32 +1,31 @@
-# **I commonly use**
-- Java
 
-- Javascript
+## Skills
 
-- Python
+#### I have experience with
 
-- HTML
+[![Capabilities](https://skillicons.dev/icons?i=java,js,py,html,css,cpp,androidstudio,arduino,bash,cloudflare,cmake,discord,bots,eclipse,git,github,githubactions,gradle,idea,jquery,linux,maven,postman,powershell,pr,raspberrypi,regex,replit,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
-- CSS
 
-# **I also know:**
-- C/C++
+#### Planning to learn more about
 
-# **My hobbies:**
-In my free time, I enjoy coding Minecraft Java plugins. This is one of the ways that I developed my passion for programming.
+[![Upcoming](https://skillicons.dev/icons?i=kotlin,go,rust,unreal,docker,pytorch,ai,blender,ps)](https://skillicons.dev)
 
-I'm also part of FIRST Robotics Team, where I work as a programmer, writing code to power our sophisticated robots.
+## Stats
 
-# **Contacts**
-Discord: NewAmazingPVP#2478
-
-# **More Info**
+<details>
+  <summary>Click here</summary>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NewAmazingPVP&show_icons=true&theme=transparent&count_private=true&langs_count=10" />
+<img align="left" height="165em" src="https://github-readme-stats.vercel.app/api?username=NewAmazingPVP&show_icons=true&theme=transparent&count_private=true&langs_count=10" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewAmazingPVP&show_icons=true&theme=transparent&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewAmazingPVP&show_icons=true&theme=transparent&layout=compact" />
 </a>
 
+  ![Metrics](/github-metrics.svg)
 
-![Metrics](/github-metrics.svg)
+</details>
+
+## Contacts
+Discord: [NewAmazingPVP](https://discord.gg/HVHz9kAu)
+
