@@ -1,12 +1,12 @@
 
 ## Skills
 
-#### I have experience with
+### I have experience with
 
 [![Capabilities](https://skillicons.dev/icons?i=java,js,py,html,css,cpp,androidstudio,arduino,bash,cloudflare,cmake,discord,bots,eclipse,git,github,githubactions,gradle,idea,jquery,linux,maven,postman,powershell,pr,raspberrypi,regex,replit,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 
-#### Planning to learn more about
+### Planning to learn more about
 
 [![Upcoming](https://skillicons.dev/icons?i=kotlin,go,rust,unreal,docker,pytorch,ai,blender,ps)](https://skillicons.dev)
 
