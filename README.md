@@ -3,7 +3,7 @@
 
 ### I have experience with
 
-[![Capabilities](https://skillicons.dev/icons?i=java,cs,py,js,html,css,cpp,androidstudio,arduino,bash,cloudflare,opencv,cmake,discord,bots,eclipse,git,github,githubactions,gradle,unity,sqlite,idea,jquery,linux,maven,postman,robloxstudio,powershell,pr,raspberrypi,regex,replit,visualstudio,vscode,wordpress)](https://skillicons.dev)
+[![Capabilities](https://skillicons.dev/icons?i=java,py,cs,js,html,css,cpp,androidstudio,arduino,bash,cloudflare,opencv,cmake,discord,bots,eclipse,git,github,githubactions,gradle,unity,sqlite,idea,jquery,linux,maven,postman,robloxstudio,powershell,pr,raspberrypi,regex,replit,visualstudio,vscode,wordpress)](https://skillicons.dev)
 
 
 ### Planning to learn more about
