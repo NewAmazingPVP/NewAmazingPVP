@@ -1,4 +1,3 @@
-
 ## Skills
 
 ### I have experience with
@@ -12,8 +11,8 @@
 
 ## Stats
 
-<details>
-  <summary>Click here</summary>
+<!-- <details>
+  <summary>Click here</summary> -->
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" height="165em" src="https://github-readme-stats.vercel.app/api?username=NewAmazingPVP&show_icons=true&theme=transparent&count_private=true&langs_count=10" />
@@ -22,10 +21,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewAmazingPVP&show_icons=true&theme=transparent&layout=compact" />
 </a>
 
-  ![Metrics](/github-metrics.svg)
+![Metrics](/github-metrics.svg)
 
-</details>
+<!-- </details> -->
 
 ## Contacts
 Discord: [NewAmazingPVP](https://discord.gg/HVHz9kAu)
-
