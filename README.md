@@ -23,4 +23,4 @@
 <!-- </details> -->
 
 ## Contacts
-Discord: [NewAmazingPVP](https://discord.gg/HVHz9kAu)
+Email: [tech@NewAmazingPVP.com](mailto:tech@NewAmazingPVP.com)
