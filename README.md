@@ -26,12 +26,11 @@
   <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NewAmazingPVP&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
 
+  <br />
+  <img src="/github-metrics.svg" alt="Metrics" />
 </div>
-<br />
-
-![Metrics](/github-metrics.svg)
 
 <!-- </details> -->
 
 ## Contacts
-Email: [tech@NewAmazingPVP.com](mailto:tech@NewAmazingPVP.com)
+[tech@NewAmazingPVP.com](mailto:tech@NewAmazingPVP.com)
