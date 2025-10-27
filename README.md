@@ -1,5 +1,9 @@
 <div align="center">
-  
+
+<img alt="NAP header" style="width:100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=NAP&fontSize=64&fontAlign=50&fontAlignY=50&fontColor:A7F3D0&stroke=1A1037&strokeWidth=2&color=0:3B0764,50:8B5CF6,100:EC4899" />
+
+
 ## Skills
 
 ### I have experience with
