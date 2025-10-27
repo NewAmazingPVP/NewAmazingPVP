@@ -27,7 +27,7 @@ jobs:
           # Options
           user: NewAmazingPVP
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, repositories
           config_display: large
           config_timezone: America/New_York
           plugin_achievements: yes
