@@ -31,6 +31,8 @@
   <br />
   <img src="/github-metrics.svg" alt="Metrics" />
 
+  <img src="https://raw.githubusercontent.com/newamazingpvp/newamazingpvp/output/snake.svg" alt="Snake animation" />
+
 </details>
 
 ## Contacts
