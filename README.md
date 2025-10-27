@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Skills
 
 ### I have experience with
@@ -8,10 +10,10 @@
 
 ## Stats
 
-<!-- <details>
-  <summary>Click here</summary> -->
+<details>
+  <summary>Click here</summary>
 
-<div align="center">
+
 
   <img src="https://streak-stats.demolab.com?user=NewAmazingPVP&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=10" height="170" alt="streak graph" />
 
@@ -28,9 +30,9 @@
 
   <br />
   <img src="/github-metrics.svg" alt="Metrics" />
-</div>
 
-<!-- </details> -->
+</details>
 
 ## Contacts
 [tech@NewAmazingPVP.com](mailto:tech@NewAmazingPVP.com)
+</div>
