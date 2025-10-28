@@ -64,7 +64,7 @@
 
 ## Stats
 
-<details>
+<details open>
   <summary>Click here</summary>
   <img src="https://streak-stats.demolab.com?user=NewAmazingPVP&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=10" height="170" alt="streak graph" />
   <br />
