@@ -65,10 +65,10 @@
   <h2>Stats</h2>
   <details open>
     <summary>Click here</summary>
-    <img src="https://streak-stats.demolab.com?user=NewAmazingPVP&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=10" height="170" alt="streak graph" />
+    <img src="https://github-readme-streak-stats-pink-omega.vercel.app?user=NewAmazingPVP&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=10" height="170" alt="streak graph" />
     <br />
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=NewAmazingPVP&show_icons=true&hide_title=true&theme=transparent&count_private=true&include_all_commits=true&rank_icon=github" height="165em" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NewAmazingPVP&show_icons=true&hide_title=true&theme=transparent&count_private=true&include_all_commits=false&rank_icon=github" height="165em" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewAmazingPVP&langs_count=8&layout=compact&hide_border=false&hide_title=true&theme=transparent" height="165em" />
