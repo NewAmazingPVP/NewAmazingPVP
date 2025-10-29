@@ -68,10 +68,10 @@
     <img src="https://github-readme-streak-stats-pink-omega.vercel.app?user=NewAmazingPVP&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=10" height="170" alt="streak graph" />
     <br />
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=NewAmazingPVP&show_icons=true&hide_title=true&theme=transparent&count_private=true&include_all_commits=false&rank_icon=github" height="165em" />
+      <img src="https://github-readme-kohl.vercel.app/api?username=NewAmazingPVP&show_icons=true&hide_title=true&theme=transparent&count_private=true&include_all_commits=false&hide_rank=true" height="165em" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NewAmazingPVP&langs_count=8&layout=compact&hide_border=false&hide_title=true&theme=transparent" height="165em" />
+      <img src="https://github-readme-kohl.vercel.app/api/top-langs/?username=NewAmazingPVP&langs_count=8&layout=compact&hide_border=false&hide_title=true&theme=transparent" height="165em" />
     </a>
     <br />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NewAmazingPVP&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity graph" />
