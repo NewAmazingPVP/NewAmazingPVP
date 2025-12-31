@@ -77,7 +77,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=NewAmazingPVP&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity graph" />
     <br />
     <img src="/github-metrics.svg" alt="Metrics" />
-    <img src="https://raw.githubusercontent.com/newamazingpvp/newamazingpvp/output/snake.svg" alt="Snake animation" />
   </details>
 
   <h2>Contacts</h2>
