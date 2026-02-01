@@ -80,7 +80,7 @@
   </details>
 
   <h2>Contacts</h2>
-  <a href="mailto:tech@NewAmazingPVP.com">tech@NewAmazingPVP.com</a>
+  <a href="mailto:NewAmazingPVP@proton.me">NewAmazingPVP@proton.me</a>
 
 ## Socials
 
@@ -95,7 +95,7 @@
 </a>
 <br />
 
-
+<!--
 <details>
   <summary> Additional</summary>
 
@@ -114,3 +114,4 @@
     <a href="https://www.youtube.com/@nap_mc" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="35" alt="Dev YouTube" />
   </a>
+  
